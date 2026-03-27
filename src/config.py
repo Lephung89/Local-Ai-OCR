@@ -4,8 +4,8 @@ import os
 import tomllib
 
 APP_VERSION = "v2.3.0"
-APP_AUTHOR = "Nguyễn Phước Thịnh"
-PROJECT_URL = "https://github.com/th1nhhdk/local_ai_ocr"
+APP_AUTHOR = "Phụng"
+PROJECT_URL = "https://github.com/Lephung89/Local-Ai-OCR"
 
 # Windows-specific feature
 WIN_TASKBAR_PROGRESS_SUPPORT = sys.platform == "win32"
